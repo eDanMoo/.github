@@ -1,6 +1,6 @@
 # KOWORD
 
-[![koword](./.assets/koword.png)](https://youtu.be/tfNjF5jEH0s)
+[![koword](https://github.com/team-koword/.github/blob/main/profile/.assets/koword.png)](https://youtu.be/tfNjF5jEH0s)
 
 
 
@@ -14,7 +14,7 @@ koword는 [크래프톤 정글](https://jungle.krafton.com/) 1기 나만의 무�
 
 ## 개요
 
-![stack](./.assets/stack.png)
+![stack](https://github.com/team-koword/.github/blob/main/profile/.assets/stack.png)
 
 - koword의 Front-end는 Vue.js를 기반으로 작성되었습니다.
 - Back-end는 Python, FastAPI를 기반으로 한 websockets 서버에 Pytorch를 이용하여
@@ -32,7 +32,7 @@ koword는 [크래프톤 정글](https://jungle.krafton.com/) 1기 나만의 무�
 
 ## 멤버
 
-![member](./.assets/members.gif)
+![member](https://github.com/team-koword/.github/blob/main/profile/.assets/members.gif)
 
 - ### [박정은](https://github.com/Jungeun04)
 
