@@ -1,7 +1,7 @@
 # KOWORD
 
 [![koword](https://github.com/team-koword/.github/blob/main/profile/.assets/koword.png)](https://youtu.be/tfNjF5jEH0s)
-
+[한글 단어게임 koword 바로가기](https://koword.com)
 
 
 ## 소개
